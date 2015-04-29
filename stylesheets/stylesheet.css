@@ -95,11 +95,11 @@ h1, h2, h3, h4, h5, h6 {
 
 #main_content h1 {
   font-size: 1.8em;
-  margin-top: 38px;
+  margin-top: 34px;
 }
 
     #main_content h1:first-child {
-        margin-top: 34px;
+        margin-top: 30px;
     }
 
 #main_content h2 {
