@@ -1,5 +1,4 @@
-# extendvs
-##Write Your Own Tools for Visual Studio 
+# Write Your Own Tools for Visual Studio 
 
 Visual Studio is a fully extensibility development platform. In addition to all of the powerful tools that it provides, you can also use tools written by the community as well as create your own tools. Visual Studio Extensions empower you to extend almost every part of Visual Studio:
 
