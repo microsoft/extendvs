@@ -37,8 +37,16 @@ h1, h2, h3, h4, h5, h6 {
 header {
   color: #FFF;
   background: #68217a;
+  position:relative;
 }
-
+#hangcloud {
+    width: 153px;
+    height: 139px;
+    background: url("../images/bannerart01.png");
+    position: absolute;
+    top: 0;
+    right: -14px;
+}
 h1, h2 {
   font-family: "Segoe UI Light", "Segoe UI", Helvetica, Arial, sans-serif;
   line-height: 1;
@@ -48,11 +56,13 @@ h1, h2 {
 header h1 {
   font-size: 3.4em;
   padding-top: 18px;
+  font-weight: normal;
 }
 
 header h2 {
   font-size: 1.5em;
   margin-top: 10px;
+  font-weight: normal;
 }
 
 #downloads .btn {
