@@ -1,6 +1,6 @@
 # Add Your Extension to the Community Extensions list
 
-We are looking for extensions to add to the Community Extension list. To add your extension, submit a Pull request on the index.html file in the gh-pages branch. To easily find the list, search for "CommunityExtensionList".
+We are looking for open source extensions to add to the Community Extension list. To add your extension, submit a Pull request on the index.html file in the gh-pages branch. To easily find the list, search for "CommunityExtensionList".
 
 # Create your own extensions for Visual Studio 
 
