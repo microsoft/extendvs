@@ -1,3 +1,7 @@
+# Add Your Extension to the Community Extensions list
+
+We are looking for extensions to add to the Community Extension list. To add your extension, submit a Pull request on the index.html file in the gh-pages branch. To easily find the list, search for "CommunityExtensionList".
+
 # Create your own extensions for Visual Studio 
 
 Visual Studio is a fully extensible development platform. In addition to all of the powerful tools that it provides, you can also use tools written by the community as well as create your own tools. Visual Studio Extensions empower you to extend almost every part of Visual Studio:
