@@ -11,3 +11,5 @@ Visual Studio is a fully extensible development platform. In addition to all of 
 * Provide IntelliSense for emerging programming languages
 * Offer light bulbs that help developers write better code
 * Integrate new project types into Visual Studio
+ 
+For more information check out our [project page!] (http://microsoft.github.io/extendvs/)
