@@ -137,9 +137,6 @@ ul {
 #lpanel {
     width: 620px;
 }
-#rpanel ul {
-    list-style-type: none;
-}
     #rpanel ul li {
         line-height: 1.8em;
     }
