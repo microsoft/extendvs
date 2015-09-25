@@ -1,4 +1,9 @@
-# Add Your Extension to the Community Extensions list
+# Visual Studio Extensions
+Extend the Visual Studio IDE
+
+[![Join the chat at https://gitter.im/Microsoft/extendvs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Microsoft/extendvs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+# Add your extension to the community extensions list
 
 We are looking for open source extensions to add to the Community Extension list. To add your extension, submit a Pull request on the index.html file in the gh-pages branch. To easily find the list, search for "CommunityExtensionList".
 
