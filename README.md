@@ -13,6 +13,7 @@ Find more information at [VisualStudio.com/integrate](http://visualstudio.com/in
 # Getting started
 
 Get started with building extensions for Visual Studio:
+
 1. [Detailed getting started documentation on MSDN](https://msdn.microsoft.com/en-us/library/bb166030.aspx)
 2. [Extension samples on GitHub](https://github.com/Microsoft/VSSDK-Extensibility-Samples)
 3. [Chat with other extension developers on Gitter](https://gitter.im/Microsoft/extendvs)
