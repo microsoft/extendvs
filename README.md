@@ -1,20 +1,23 @@
 # Visual Studio Extensions
-Extend the Visual Studio IDE
 
-[![Join the chat at https://gitter.im/Microsoft/extendvs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Microsoft/extendvs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-# Add your extension to the community extensions list
-
-We are looking for open source extensions to add to the Community Extension list. To add your extension, submit a Pull request on the index.html file in the gh-pages branch. To easily find the list, search for "CommunityExtensionList".
-
-# Create your own extensions for Visual Studio 
-
-Visual Studio is a fully extensible development platform. In addition to all of the powerful tools that it provides, you can also use tools written by the community as well as create your own tools. Visual Studio Extensions empower you to extend almost every part of Visual Studio:
+Visual Studio is a fully extensible development platform and  empowers you to extend almost every part:
 
 * Add menu items and toolbars items that activate functionality you build
 * Create tool windows that offer entirely new functionality
-* Provide IntelliSense for emerging programming languages
+* Integrate new languages into the IDE
 * Offer light bulbs that help developers write better code
 * Integrate new project types into Visual Studio
  
-For more information check out our [project page!] (http://microsoft.github.io/extendvs/)
+Find more information at [VisualStudio.com/integrate](http://visualstudio.com/integrate)!
+
+# Getting started
+
+Get started with building extensions for Visual Studio:
+1. [Detailed getting started documentation on MSDN](https://msdn.microsoft.com/en-us/library/bb166030.aspx)
+2. [Extension samples on GitHub](https://github.com/Microsoft/VSSDK-Extensibility-Samples)
+3. [Chat with other extension developers on Gitter](https://gitter.im/Microsoft/extendvs)
+4. [Channel 9 Videos on extensibility](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Building-Extensions-Part-1)
+5. [Extensibility Tools to make it easier to build extensions](https://visualstudiogallery.msdn.microsoft.com/ab39a092-1343-46e2-b0f1-6a3f91155aa6) 
+
+
+
