@@ -107,6 +107,10 @@ ul {
         margin-left: 18px;
         padding-left: 0;
     }
+    
+li #selected {
+  font-weight: bold;
+}
 #lpanel {
     width: 620px;
     float: left;
