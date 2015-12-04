@@ -20,10 +20,5 @@ Get started with building extensions for Visual Studio:
 4. [Channel 9 Videos on extensibility](http://aka.ms/e5tc28)
 5. [Extensibility Tools to make it easier to build extensions](http://aka.ms/lcgbsr) 
 
-
-
-
-
-
-
-
+# Open Source Extensions
+See a full list of [Community Extensions](CommunityExtensions.md).
