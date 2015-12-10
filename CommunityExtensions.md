@@ -32,6 +32,6 @@ Submit a pull request to add yours to the list.
 | [AutoRunCustomTool](https://github.com/thomaslevesque/AutoRunCustomTool) | Automatically runs the custom tool on a file when a trigger file is modified. |
 | [Cloud Foundry Visual Studio Extension](https://github.com/cloudfoundry-incubator/cf-vs-extension) | Enables Cloud Foundry users to publish applications from Visual Studio directly to a Cloud Foundry deployment. |
 | [Indent Guides for Visual Studio](http://indentguide.codeplex.com/) | Adds vertical lines at each indent level. |
-
+| [Object Exporter](https://github.com/OmarElabd/ObjectExporter) | Object Exporter lets you export out an object while debugging in Visual Studio, the object can be serialized in either C#, JSON or XML. |
 
 Learn more about Visual Studio Extensibility at [VisualStudio.com/integrate](http://aka.ms/eq1egu)
