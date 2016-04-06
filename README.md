@@ -10,6 +10,8 @@ Visual Studio is a fully extensible development platform and  empowers you to ex
  
 Find more information at [VisualStudio.com/integrate](http://aka.ms/g7pc6c)!
 
+[![Join the chat at https://gitter.im/Microsoft/extendvs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Microsoft/extendvs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # Getting started
 
 Get started with building extensions for Visual Studio:
