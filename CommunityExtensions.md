@@ -34,5 +34,6 @@ Submit a pull request to add yours to the list.
 | [Indent Guides for Visual Studio](http://indentguide.codeplex.com/) | Adds vertical lines at each indent level. |
 | [Object Exporter](https://github.com/OmarElabd/ObjectExporter) | Object Exporter lets you export out an object while debugging in Visual Studio, the object can be serialized in either C#, JSON or XML. |
 | [HLSL Tools for Visual Studio](https://github.com/tgjones/hlsltools) | Enhanced support for editing High Level Shading Language (HLSL) files |
+| [GitHub for Visual Studio](https://github.com/github/VisualStudio) | A Visual Studio Extension that brings the GitHub Flow into Visual Studio. |
 
 Learn more about Visual Studio Extensibility at [VisualStudio.com/integrate](http://aka.ms/eq1egu)
