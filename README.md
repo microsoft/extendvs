@@ -8,7 +8,7 @@ Visual Studio is a fully extensible development platform and  empowers you to ex
 * Offer light bulbs that help developers write better code
 * Integrate new project types into Visual Studio
  
-Find more information at [VisualStudio.com/integrate](http://aka.ms/g7pc6c)!
+Find more information on the [Visual Studio website](http://aka.ms/extendvs)!
 
 [![Join the chat at https://gitter.im/Microsoft/extendvs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Microsoft/extendvs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -23,4 +23,4 @@ Get started with building extensions for Visual Studio:
 5. [Extensibility Tools to make it easier to build extensions](http://aka.ms/lcgbsr) 
 
 # Open Source Extensions
-See a full list of [Community Extensions](CommunityExtensions.md).
+See a list of [Community Extensions](CommunityExtensions.md).
