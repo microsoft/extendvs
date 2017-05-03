@@ -2,7 +2,7 @@
 Submit a pull request to add yours to the list.
 
 | Extension Name | Description |
-| --------------- | ---------- | ---- |
+| --------------- | ---------- |
 | [CodeMaid](https://github.com/codecadwallader/codemaid) | Extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding. |
 | [Web Essentials 2015](https://github.com/madskristensen/WebEssentials2015) | Extends Visual Studio with lots of new features that web developers have been missing for many years. |
 | [SideWaffle](https://github.com/ligershark/side-waffle) | A collection of Item- and Project Templates for Visual Studio .|
