@@ -16,10 +16,10 @@ Find more information on the [Visual Studio website](http://aka.ms/extendvs)!
 
 Get started with building extensions for Visual Studio:
 
-1. [Detailed getting started documentation on MSDN](http://aka.ms/xl6mz9)
+1. [Detailed getting started documentation on Microsoft Docs](https://aka.ms/o5gv1m)
 2. [Extension samples on GitHub](http://aka.ms/j11bl6)
 3. [Chat with other extension developers on Gitter](http://aka.ms/n5irj8)
-4. [Channel 9 Videos on extensibility](http://aka.ms/e5tc28)
+4. [Channel 9 Videos on extensibility](https://aka.ms/spn6s4)
 5. [Extensibility Tools to make it easier to build extensions](http://aka.ms/lcgbsr) 
 
 # Open Source Extensions
