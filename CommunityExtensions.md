@@ -34,6 +34,7 @@ Submit a pull request to add yours to the list.
 | [Indent Guides for Visual Studio](http://indentguide.codeplex.com/) | Adds vertical lines at each indent level. |
 | [Object Exporter](https://github.com/OmarElabd/ObjectExporter) | Object Exporter lets you export out an object while debugging in Visual Studio, the object can be serialized in either C#, JSON or XML. |
 | [HLSL Tools for Visual Studio](https://github.com/tgjones/hlsltools) | Enhanced support for editing High Level Shading Language (HLSL) files |
-| [Time Savers](https://github.com/yannduran/time-savers-vs) | (time-savers) => \{ visual-studio-development-productivity++ \} 
+| [Time Savers](https://github.com/yannduran/time-savers-vs) | (time-savers) => \{ visual-studio-development-productivity++ \} |
+| [Select Next Occurrence](https://github.com/2mas/SelectNextOccurrence) | Extension that selects the next occurrences of the current selection and adds multiple cursors for editing |
 
 Learn more about Visual Studio Extensibility at [VisualStudio.com/integrate](http://aka.ms/eq1egu)
