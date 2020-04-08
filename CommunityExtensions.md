@@ -35,5 +35,6 @@ Submit a pull request to add yours to the list.
 | [Object Exporter](https://github.com/OmarElabd/ObjectExporter) | Object Exporter lets you export out an object while debugging in Visual Studio, the object can be serialized in either C#, JSON or XML. |
 | [HLSL Tools for Visual Studio](https://github.com/tgjones/hlsltools) | Enhanced support for editing High Level Shading Language (HLSL) files |
 | [Time Savers](https://github.com/yannduran/time-savers-vs) | (time-savers) => \{ visual-studio-development-productivity++ \} 
+| [Git Diff Margin](https://github.com/laurentkempe/GitDiffMargin) | Displays live Git changes of the currently edited file on Visual Studio margin and scroll bar |
 
 Learn more about Visual Studio Extensibility at [VisualStudio.com/integrate](http://aka.ms/eq1egu)
