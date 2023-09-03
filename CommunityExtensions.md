@@ -34,6 +34,10 @@ Submit a pull request to add yours to the list.
 | [Indent Guides for Visual Studio](http://indentguide.codeplex.com/) | Adds vertical lines at each indent level. |
 | [Object Exporter](https://github.com/OmarElabd/ObjectExporter) | Object Exporter lets you export out an object while debugging in Visual Studio, the object can be serialized in either C#, JSON or XML. |
 | [HLSL Tools for Visual Studio](https://github.com/tgjones/hlsltools) | Enhanced support for editing High Level Shading Language (HLSL) files |
-| [Time Savers](https://github.com/yannduran/time-savers-vs) | (time-savers) => \{ visual-studio-development-productivity++ \} 
+| [Time Savers](https://marketplace.visualstudio.com/items?itemName=YannDuran.VisualStudioTimeSavers) | (time-savers) => \{ visual-studio-development-productivity++ \} |
+| [Developer News](https://marketplace.visualstudio.com/items?itemName=YannDuran.DeveloperNews) |  Bring Back Developer News! |
+| [Start Page+](https://marketplace.visualstudio.com/items?itemName=YannDuran.StartPagePlus) |  Bring back Start Page! (a document tab, NOT a modal window) |
+| [Extensibility Logs](https://marketplace.visualstudio.com/items?itemName=YannDuran.ExtensibilityLogs) |  Quickest & easiest way to view extensibility logs! |
+| [Extensibility Essentials](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ExtensibilityEssentials2019) |  A collection of extensions that makes it much easier to write Visual Studio extensions |
 
 Learn more about Visual Studio Extensibility at [VisualStudio.com/integrate](http://aka.ms/eq1egu)
